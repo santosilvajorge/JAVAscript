@@ -29,10 +29,11 @@ ASSIGNMENT RULES
  Write the code to execute an addition (a sum) of the numbers 12 and 20.
 */
 
-let firstVar = 12
+/* let firstVar = 12
 let secondVar =20
 
 console.log(firstVar + secondVar)
+*/
 
 /* EXERCISE 4
  Create a variable named x and assign to it the number 12.
@@ -59,14 +60,12 @@ Create two variables: name1 and name2. Assign to name1 the string "john", and to
  YOU DON'T NEED AN IF/ELSE BLOCK. It is enough to use console.log()
 */
 
-/* 
+/*
 let name1Var = "john"
 let name2Var = "John"
 
-let lowerCase = "john"
-console.log() 
+console.log(name1Var == name2Var) 
 */
-
 
 /* WHEN YOU ARE FINISHED
  Upload the .js file on Eduflow before 5PM CET. In the next days we'll also learn how to use GIT!
