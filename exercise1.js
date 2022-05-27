@@ -19,7 +19,7 @@ ASSIGNMENT RULES
  - booleans - is a True/False information about a particular case
  - undefined - is like the name said something that is not defined
  - null - is a null value ´
-*/
+
 
  'EXERCISE 2'
  /*
